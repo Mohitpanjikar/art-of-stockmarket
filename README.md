@@ -3,11 +3,13 @@
 This repository is for the Art-of-Stock-Market built with Next.js 13, and aceternity ui
 
 ## Preview image
-![Screenshot](https://github.com/Mohitpanjikar/Art-of-Stock-Market/blob/main/img1.png)
-![Screenshot](https://github.com/Mohitpanjikar/Art-of-Stock-Market/blob/main/img2.png)
-![Screenshot](https://github.com/Mohitpanjikar/Art-of-Stock-Market/blob/main/img3.png)
-![Screenshot](https://github.com/Mohitpanjikar/Art-of-Stock-Market/blob/main/img5.png)
-![Screenshot](https://github.com/Mohitpanjikar/Art-of-Stock-Market/blob/main/img4.png)
+![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img1.png)
+![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img2.png)
+![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img3.png)
+![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img5.png)
+![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img4.png)
+
+
 
 
 If you prefer visual learning, there's a comprehensive video tutorial accompanying this repository.
