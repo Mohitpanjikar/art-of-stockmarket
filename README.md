@@ -1,6 +1,6 @@
-#  Art-of-Stock-Market built with Next.js 13, and aceternity ui
+#  Art-of-Stock-Market built with Next.js, and aceternity ui
 
-This repository is for the Art-of-Stock-Market built with Next.js 13, and aceternity ui
+This repository is for the Art-of-Stock-Market built with Next.js, and aceternity ui
 
 ## Preview image
 ![Screenshot](https://github.com/Mohitpanjikar/art-of-stockmarket/blob/main/img1.png)
