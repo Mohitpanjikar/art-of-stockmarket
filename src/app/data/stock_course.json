@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Stock Market Basics",
+      "slug": "stock-market-basics",
+      "description": "Learn the fundamental concepts of the stock market and investment strategies.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/stock1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Technical Analysis Fundamentals",
+      "slug": "technical-analysis-fundamentals",
+      "description": "Master the techniques of technical analysis to make informed trading decisions.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/stock2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Trading Strategies",
+      "slug": "advanced-trading-strategies",
+      "description": "Explore advanced trading strategies to optimize your portfolio performance.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/stock3.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Day Trading Mastery",
+      "slug": "day-trading-mastery",
+      "description": "Learn the ins and outs of day trading for consistent profits in volatile markets.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/stock4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Options Trading Strategies",
+      "slug": "options-trading-strategies",
+      "description": "Discover effective strategies for trading options and managing risk.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/stock5.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Financial Analysis Techniques",
+      "slug": "financial-analysis-techniques",
+      "description": "Learn how to analyze financial statements and evaluate investment opportunities.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/stock6.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Investing in Real Estate Investment Trusts (REITs)",
+      "slug": "investing-in-reits",
+      "description": "Explore the benefits and strategies of investing in Real Estate Investment Trusts.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/stock7.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Forex Trading Fundamentals",
+      "slug": "forex-trading-fundamentals",
+      "description": "Learn the basics of forex trading, including currency pairs, market dynamics, and risk management.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/stock8.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Investment Psychology",
+      "slug": "investment-psychology",
+      "description": "Understand the psychological aspects of investing and how to overcome common biases.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": true,
+      "image": "/courses/stock9.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Cryptocurrency Trading Strategies",
+      "slug": "crypto-trading-strategies",
+      "description": "Discover effective strategies for trading cryptocurrencies and navigating the volatile market.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/stock10.jpeg"
+    }
+  ]
+}
